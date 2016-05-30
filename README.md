@@ -4,16 +4,24 @@ This project is to find a way between two employees in an organisation.
 For example- Below is the input
 
   | Employee ID | Name            | Manager ID |
+  
   | 1           | Dangermouse     |            |
+  
   | 2           | Gonzo the Great | 1          |
+  
   | 3           | Invisible Woman | 1          |
+  
   | 6           | Black Widow     | 2          |
+  
   | 12          | Hit Girl        | 3          |
+  
   | 15          | Super Ted       | 3          |
+  
   | 16          | Batman          | 6          |
+  
   | 17          | Catwoman        | 6          |
   
-Find the path between - "Batman" and "Super Ted"
+Task is to find the path between - "Batman" and "Super Ted"
 
 It should give below output:
 
